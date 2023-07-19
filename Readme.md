@@ -15,9 +15,11 @@
 # Introducción:
 <h3>
 En este laboratorio individual de <em>Data Analytics</em> (DA), asumiré el rol de un <em>Analista de Datos</em> pertenciente a la empresa tecnológica <strong>IoT InnOvaTions.</strong>(empresa ficticia) <br>
-Basándome en la información provista por el <strong>ENACOM</strong> más la generada a partir de los datos disponibles en el sitio web de la <strong>Cámara Argentina de Minería</strong> se buscará orientar a la empresa para identificar la mejor oportunidad de inversión en un nuevo rubro.
 <h4 align='center'>
 <img src="Logo IoT 2.png" width="100"></h4>
+<h3>
+Basándome en la información provista por el <strong>ENACOM</strong> más la generada a partir de los datos disponibles en el sitio web de la <strong>Cámara Argentina de Minería</strong> se buscará orientar a la empresa para identificar la mejor oportunidad de inversión en un nuevo rubro.
+
 
 # Archivos y Carpetas en el Repositorio
 <h3>
