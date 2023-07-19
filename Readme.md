@@ -4,7 +4,7 @@
 </div>
 
 <h1 align='center'>
-<img src="logo SmartMine con texto.png" width="200"> 
+<img src="IoT & Minería.png" width="1000"> 
 
 <h2 align='center' style="font-weight:light; text-align:justify; margin-left: 80px; margin-right: 100px;">
 <div align="center">
@@ -14,14 +14,16 @@
 
 # Introducción:
 <h3>
-En este laboratorio individual de <em>Data Analytics</em> (DA), asumiré el rol de un <em>Analista de Datos</em> pertenciente a la empresa tecnológica <strong>IoT InnOvaTions</strong> <br>
+En este laboratorio individual de <em>Data Analytics</em> (DA), asumiré el rol de un <em>Analista de Datos</em> pertenciente a la empresa tecnológica <strong>IoT InnOvaTions.</strong>(empresa ficticia) <br>
 <h4 align='center'>
-<img src="Logo IoT 2.png" width="100"></h4> <br>
+<img src="Logo IoT 2.png" width="100"></h4>
 
 <h3> <strong>IoT InnOvaTions</strong> es una empresa especializada en integrar y ofrecer soluciones IoT llave en mano, con experiencia en distintos rubros (industria automtotriz, empresas alimenticias, sistema de salud, entre otros).<br><p>
-<p> Se me ha encomendado realizar un análisis de factibilidad para la apertura de una nueva división dentro de la empresa con el objetivo incursionar en el rubro de las empresas mineras. Esta nueva división se identificará con el nombre de <em><strong>SmartMine</em></strong><br>
-Para este fin se cuenta con información obtenida desde el <strong>ENACOM</strong>, el cual proporciona datos referentes al alcance de la tecnología disponible, el grado de cobertura por localidades y nivel de población, y también en lo que respecta al tipo de tecnología disponible para el acceso a internet, contemplando la velocidad de acceso.
-<p> Para investigar el grado de factibilidad de incursionar en el rubro minero, se focalizó el análisis sobre 4 provincias de la región oeste de Argentina, en donde se desarrolla mayormente esta actividad. Las provincias seleccionadas fueron <strong>Catamarca</strong>, <strong>Mendoza</strong>, <strong>Neuquén</strong>, y <strong>San Juan</strong>. 
+<p> Se me ha encomendado realizar un análisis de factibilidad para la apertura de una nueva división dentro de la empresa con el objetivo incursionar en el rubro de las empresas mineras. Esta nueva división se identificará con el nombre de <em><strong>SmartMine</em></strong>
+<h4 align='center'>
+<img src="logo SmartMine con texto.png" width="120"></h4>
+<h3>Para este fin se cuenta con información obtenida desde el <strong>ENACOM</strong>, el cual proporciona datos referentes al alcance de la tecnología disponible en Argentina para el rubro telecomunicaciones en general, el grado de cobertura por localidades y nivel de población, y también información referida al tipo de tecnología disponible para el acceso a internet, contemplando la velocidad de acceso.
+<p> Para investigar el grado de factibilidad de incursionar en el rubro minero, se focalizó el análisis sobre 4 provincias de la región oeste de Argentina, en donde se desarrolla mayormente esta actividad. Las provincias seleccionadas fueron <strong>Catamarca</strong>, <strong>Mendoza</strong>, <strong>Neuquén</strong>, y <strong>San Juan</strong>. Esta información fue recolectada a partir de los registros públicos de la <strong>Cámara Argentina de Minería</strong>, de donde se extrajeron los datos de los proyectos mineros presentes en las provincias mencionadas. Estos datos permitieron crear un dataset en donde se colocó el nombre de cada proyecto, la provincia en la que se encuentra ubicado, y los minerales que se explotan en dichos yacimientos. Para poder contar con la ubicación geográfica de los mismos (latitud y longitud) ser recurrió a <strong>Google Earth</strong>, información que también se incorporó al dataset mencionado.
 <p> Con respecto a la implementación de soluciones IoT en el campo minero, sólo focalizaré el análisis en 3 segmentos de velocidad.
 <ul><li> El primero, para funciones de registro de sensores para monitoreo ambiental. En este caso, dependiendo de la cantidad de sensores y de la frecuencia de actualización de los datos de ubicación y estado, los rangos de ancho de banda pueden ir desde unos pocos kbps hasta 5Mbps.</li>
 <li>El segundo estaría orientado al monitoreo remoto y gestión de equipamiento, en donde se requiere un ancho de banda medio a alto (de 5Mbps hasta 20 Mbps).</li>
