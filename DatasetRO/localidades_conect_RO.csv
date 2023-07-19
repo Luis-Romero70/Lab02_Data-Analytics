@@ -1,0 +1,562 @@
+Provincia,Partido,Localidad,ADSL,CABLEMODEM,DIALUP,FIBRAOPTICA,4G,3G,TELEFONIAFIJA,WIRELESS,SATELITAL
+MENDOZA,General Alvear,Bowen,--,SI,SI,--,SI,SI,SI,SI,SI
+MENDOZA,General Alvear,Carmensa,--,--,--,--,SI,--,SI,SI,--
+MENDOZA,General Alvear,General Alvear,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,General Alvear,Los Compartos,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Godoy Cruz,Gobernador Benegas,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Godoy Cruz,Godoy Cruz,SI,SI,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,Godoy Cruz,LAS TORTUGAS,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Godoy Cruz,Presidente Sarmiento,--,--,--,--,--,--,--,--,--
+MENDOZA,Godoy Cruz,SAN FRANCISCO DEL MONTE,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Godoy Cruz,Villa Hipodromo,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Godoy Cruz,Villa Marini,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Malargüe,Malargüe,--,SI,--,SI,SI,SI,SI,SI,SI
+MENDOZA,Rivadavia,Andrade,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,Barrio Cooperativa Los Campamentos,--,--,--,--,SI,--,--,SI,--
+MENDOZA,Rivadavia,Barrio Rivadavia,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,Cuadro Ortega,--,--,--,--,--,SI,--,--,--
+MENDOZA,Rivadavia,El Mirador,--,--,--,SI,--,--,--,SI,--
+MENDOZA,Rivadavia,La Central,--,--,--,--,SI,SI,--,SI,--
+MENDOZA,Rivadavia,La Esperanza,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,La Florida,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,La Libertad,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,Los Árboles,--,--,--,--,--,--,--,SI,--
+MENDOZA,Rivadavia,Los Campamentos,--,--,--,--,SI,--,SI,SI,--
+MENDOZA,Rivadavia,Medrano,--,--,SI,--,SI,SI,SI,SI,--
+MENDOZA,Rivadavia,Mundo Nuevo,--,--,--,--,SI,SI,--,SI,--
+MENDOZA,Rivadavia,Reducción de Abajo,--,--,--,--,--,--,SI,SI,--
+MENDOZA,Rivadavia,Rivadavia,SI,--,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,Rivadavia,Santa María de Oro,--,--,--,--,--,--,--,SI,--
+NEUQUEN,Lácar,San Martín de los Andes,SI,SI,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Lácar,Villa Lago Meliquina,SI,--,--,SI,SI,--,SI,SI,--
+NEUQUEN,Loncopué,Chorriaca,--,--,--,--,--,--,--,SI,SI
+NEUQUEN,Loncopué,Loncopué,--,SI,SI,--,SI,--,SI,SI,SI
+NEUQUEN,Los Lagos,Villa La Angostura,SI,--,SI,SI,SI,SI,SI,SI,SI
+NEUQUEN,Los Lagos,Villa Traful,--,--,--,--,--,--,SI,--,SI
+NEUQUEN,Minas,Andacollo,SI,--,SI,SI,--,--,SI,SI,SI
+NEUQUEN,Minas,Huinganco,--,--,SI,--,--,--,SI,SI,SI
+NEUQUEN,Minas,Las Ovejas,--,--,--,--,--,--,SI,SI,--
+NEUQUEN,Minas,Los Miches,--,--,--,--,--,--,--,--,--
+NEUQUEN,Minas,Manzano Amargo,--,--,--,--,--,--,--,SI,--
+NEUQUEN,Minas,Varvarco,--,--,--,--,SI,--,--,SI,--
+NEUQUEN,Minas,Villa del Nahueve,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Rawson,Rawson,SI,--,SI,--,SI,SI,SI,SI,SI
+SAN JUAN,Rawson,Villa Bolaños,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Rawson,Villa Krause,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Rivadavia,Rivadavia,SI,--,SI,SI,SI,SI,SI,SI,SI
+SAN JUAN,San Martín,Barrio Sadop,--,--,--,--,--,--,--,SI,--
+SAN JUAN,San Martín,Dos Acequias (Est. Los Angacos),--,--,--,--,--,--,--,SI,--
+SAN JUAN,San Martín,San Isidro (Est. Los Angacos),SI,--,--,--,SI,SI,--,SI,--
+SAN JUAN,San Martín,Villa Dominguito (Est. Puntilla Blanca),--,--,--,--,--,--,--,SI,--
+SAN JUAN,San Martín,Villa Don Bosco (Est. Angaco Sud),--,--,--,SI,SI,SI,SI,SI,--
+SAN JUAN,San Martín,Villa El Salvador,--,--,--,--,--,--,--,SI,--
+SAN JUAN,San Martín,Villa San Martín,--,--,--,--,SI,SI,--,SI,SI
+SAN JUAN,Santa Lucía,Alto De Sierra,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Santa Lucía,Colonia Gutierrez,--,--,--,--,SI,SI,--,--,--
+SAN JUAN,Santa Lucía,Santa Lucía,SI,--,SI,SI,SI,SI,SI,SI,--
+SAN JUAN,Sarmiento,Cañada Honda,--,--,--,SI,SI,--,SI,SI,SI
+SAN JUAN,Jáchal,San José de Jáchal,--,--,SI,SI,SI,SI,SI,SI,SI
+SAN JUAN,Jáchal,Tamberías,--,--,--,--,--,--,SI,SI,--
+SAN JUAN,Jáchal,Villa Malvinas Argentinas,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Jáchal,Villa Mercedes,--,--,--,--,SI,--,SI,SI,SI
+SAN JUAN,Pocito,Barrio Municipal,--,--,--,--,--,--,--,--,--
+SAN JUAN,Pocito,Barrio Ruta 40,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Pocito,Carpintería,--,--,--,--,SI,--,SI,SI,--
+SAN JUAN,Pocito,La Rinconada,--,--,--,--,SI,SI,--,--,--
+SAN JUAN,Pocito,Las Piedritas,--,--,--,--,--,--,--,--,--
+SAN JUAN,Pocito,Quinto Cuartel,--,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,Pocito,Villa Aberastain,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Pocito,Villa Aberastain - La Rinconada,SI,--,SI,--,--,--,SI,SI,SI
+SAN JUAN,Pocito,Villa Barbosa - Villa Nacusi,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Pocito,Villa Barboza,--,--,--,--,SI,SI,--,--,--
+SAN JUAN,Pocito,Villa Centenario,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Pocito,Villa Nacusi,--,--,--,--,--,--,--,--,--
+SAN JUAN,Rawson,El Medanito,--,--,--,--,--,SI,--,SI,--
+SAN JUAN,Sarmiento,Cienaguita,--,--,--,SI,--,--,--,SI,--
+SAN JUAN,Sarmiento,Colonia Fiscal,--,--,--,--,--,--,--,--,--
+SAN JUAN,Sarmiento,Divisadero,--,--,--,--,SI,--,SI,SI,--
+SAN JUAN,Sarmiento,Guanacache,--,--,--,--,SI,--,SI,SI,--
+SAN JUAN,Sarmiento,Las Lagunas,--,--,--,--,SI,SI,--,--,SI
+SAN JUAN,Sarmiento,Los Berros,--,--,--,SI,SI,SI,SI,SI,--
+SAN JUAN,Sarmiento,Pedernal,--,--,--,--,SI,--,--,SI,--
+SAN JUAN,Sarmiento,Punta del Médano,--,--,--,--,SI,--,SI,SI,--
+SAN JUAN,Sarmiento,Villa Media Agua,--,--,--,SI,SI,SI,SI,SI,--
+SAN JUAN,Ullum,Villa Ibáñez,--,--,SI,--,SI,SI,SI,SI,--
+SAN JUAN,Valle Fértil,Astica,--,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,Valle Fértil,Balde del Rosario,--,--,--,--,--,--,SI,--,--
+SAN JUAN,Valle Fértil,Chucuma,--,--,--,--,--,SI,--,--,--
+SAN JUAN,Valle Fértil,Los Baldecitos,--,--,--,--,SI,SI,SI,--,--
+SAN JUAN,Valle Fértil,Usno,--,--,--,--,--,--,--,--,--
+SAN JUAN,Valle Fértil,Villa San Agustín,--,--,--,SI,SI,--,SI,SI,SI
+SAN JUAN,Zonda,Villa Basilio Nievas,--,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,Chimbas,Chimbas,SI,--,SI,SI,SI,SI,SI,SI,--
+SAN JUAN,Chimbas,El Mogote,--,--,--,--,--,--,--,--,--
+SAN JUAN,Chimbas,Villa Paula Albarracin,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Iglesia,Angualasto,--,--,--,--,SI,--,--,SI,--
+SAN JUAN,Iglesia,Bella Vista,--,--,--,--,--,--,--,SI,SI
+SAN JUAN,Iglesia,Iglesia,--,--,--,--,--,--,SI,SI,SI
+SAN JUAN,Iglesia,Las Flores,--,--,--,--,SI,SI,SI,SI,SI
+SAN JUAN,Iglesia,Pismanta,--,--,--,--,--,--,--,SI,SI
+SAN JUAN,Iglesia,Rodeo,--,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,Iglesia,Tudcum,--,--,--,--,--,--,SI,SI,SI
+SAN JUAN,Jáchal,El Fical,--,--,--,--,--,--,--,--,--
+SAN JUAN,Jáchal,El Fiscal,--,--,--,--,--,--,--,--,--
+SAN JUAN,Jáchal,El Médano,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Jáchal,Gran China,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Jáchal,Huaco,--,--,--,--,--,--,SI,SI,--
+SAN JUAN,Jáchal,La Falda,--,--,--,--,--,--,--,--,--
+SAN JUAN,Jáchal,Mogna,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Jáchal,Niquivil,--,--,--,--,SI,--,SI,SI,--
+SAN JUAN,Jáchal,Pampa Vieja,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Jáchal,San Isidro,--,--,--,--,--,--,--,SI,--
+SAN JUAN,25 de Mayo,Campo Afuera,--,--,--,--,--,--,--,--,--
+SAN JUAN,25 de Mayo,El Encón,--,--,--,--,SI,--,--,--,--
+SAN JUAN,25 de Mayo,La Chimbera,--,--,--,--,--,--,--,--,--
+SAN JUAN,25 de Mayo,Tupelí,--,--,--,--,--,--,--,SI,--
+SAN JUAN,25 de Mayo,Villa Borjas,--,--,--,--,--,--,--,SI,--
+SAN JUAN,25 de Mayo,Villa Borjas - La Chimbera,--,--,--,--,--,--,SI,SI,--
+SAN JUAN,25 de Mayo,Villa El Tango,--,--,--,--,--,--,--,--,--
+SAN JUAN,25 de Mayo,Villa Santa Rosa,--,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,9 de Julio,9 de Julio,--,--,--,SI,SI,SI,SI,SI,SI
+SAN JUAN,9 de Julio,Alto de Sierra,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,9 de Julio,Colonia Fiorito,--,--,--,--,--,--,--,SI,--
+SAN JUAN,9 de Julio,Las Chacritas,--,--,--,--,SI,--,--,SI,--
+SAN JUAN,Albardón,El Rincón,SI,--,SI,--,SI,SI,SI,SI,--
+SAN JUAN,Albardón,La Cañada,--,--,--,--,--,--,--,--,--
+SAN JUAN,Albardón,Villa Ampacama,--,--,--,--,--,--,--,--,--
+SAN JUAN,Albardón,Villa General San Martin,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Angaco,Las Tapias,--,--,--,--,--,--,SI,--,--
+SAN JUAN,Angaco,Villa El Salvador,--,--,--,--,SI,SI,--,SI,--
+SAN JUAN,Calingasta,Barreal,--,--,--,--,SI,SI,--,--,--
+SAN JUAN,Calingasta,Barreal - Villa Pituil,--,--,SI,--,--,SI,SI,SI,--
+SAN JUAN,Calingasta,Calingasta,--,--,--,--,--,SI,SI,SI,SI
+SAN JUAN,Calingasta,Tamberías,--,--,SI,--,--,SI,SI,SI,--
+SAN JUAN,Calingasta,Villa Pituil,--,--,--,--,--,--,--,--,--
+SAN JUAN,Capital,San Juan,SI,SI,SI,SI,SI,SI,SI,SI,SI
+SAN JUAN,Caucete,Barrio Justo P. Castro IV,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Bermejo,--,--,--,--,--,--,SI,--,SI
+SAN JUAN,Caucete,Caucete,SI,--,--,--,SI,SI,SI,SI,--
+SAN JUAN,Caucete,El Rincón,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Las Talas,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Las Talas - Los Médanos,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Los Medanos,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Marayes,--,--,--,--,--,--,--,--,--
+SAN JUAN,Caucete,Pie de Palo,--,--,--,--,SI,--,--,--,--
+SAN JUAN,Caucete,Vallecito,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Caucete,Villa Independencia,--,--,--,--,--,--,--,SI,--
+MENDOZA,San Rafael,Goudge,--,SI,--,--,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Jaime Prats,--,--,--,--,--,--,SI,SI,--
+MENDOZA,San Rafael,La Llave Nueva,--,--,--,--,--,--,SI,--,--
+MENDOZA,San Rafael,Las Malvinas,--,--,--,--,--,--,SI,SI,--
+MENDOZA,San Rafael,Los Reyunos,--,--,--,--,SI,--,--,--,--
+MENDOZA,San Rafael,Monte Comán,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Pobre Diablo,--,--,--,--,SI,SI,--,--,--
+MENDOZA,San Rafael,Punta del Agua,--,--,--,SI,--,--,--,--,--
+MENDOZA,San Rafael,Rama Caída,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Real del Padre,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Salto de Las Rosas,--,--,SI,--,SI,SI,SI,SI,--
+MENDOZA,San Rafael,San Rafael,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Villa Atuel,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,San Martín,PALMIRA,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,San Martín,San Martín,--,SI,--,SI,SI,SI,--,SI,SI
+MENDOZA,San Martín,Tres Porteñas,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,San Rafael,25 de Mayo,--,SI,SI,--,SI,SI,SI,SI,--
+MENDOZA,San Rafael,Barrio Campos El Toledano,--,--,--,--,SI,SI,--,--,--
+MENDOZA,San Rafael,Barrio Echeverria,--,--,--,--,SI,SI,--,--,--
+MENDOZA,San Rafael,Barrio El Nevado,--,--,--,--,--,--,--,--,--
+MENDOZA,San Rafael,Barrio Empleados de Comercio,--,--,--,--,--,--,--,--,--
+MENDOZA,San Rafael,Barrio Intendencia,--,--,--,--,SI,SI,--,--,--
+MENDOZA,San Rafael,Barrio Las Rosas,--,--,--,--,--,--,--,--,--
+MENDOZA,San Rafael,Barrio Primavera,--,--,--,--,--,--,--,--,--
+MENDOZA,San Rafael,Capitán Montoya,--,--,--,--,SI,SI,--,SI,--
+MENDOZA,San Rafael,Cuadro Benegas,SI,--,SI,SI,--,--,SI,SI,SI
+MENDOZA,San Rafael,Cuadro Nacional,--,--,--,--,SI,SI,--,--,--
+MENDOZA,San Rafael,El Nihuil,--,--,--,--,--,--,SI,SI,--
+MENDOZA,San Rafael,El Sosneado,--,--,--,--,--,--,--,--,--
+MENDOZA,San Rafael,El Tropezón,--,--,--,--,--,--,--,--,--
+MENDOZA,Tupungato,La Arboleda,--,--,--,--,SI,--,--,SI,--
+MENDOZA,Tupungato,San José,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Tupungato,Tupungato,SI,--,--,SI,SI,SI,SI,SI,SI
+MENDOZA,Tupungato,Villa Bastias,--,--,--,--,--,--,--,--,--
+NEUQUEN,Aluminé,Aluminé,--,SI,--,--,SI,--,SI,SI,SI
+NEUQUEN,Aluminé,Moquehue,--,--,--,--,--,--,--,SI,SI
+NEUQUEN,Aluminé,Villa Pehuenia,SI,--,SI,--,SI,--,SI,SI,SI
+NEUQUEN,Añelo,Aguada San Roque,--,--,--,--,SI,SI,--,--,--
+NEUQUEN,Añelo,Añelo,--,SI,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Añelo,San Patricio del Chañar,--,SI,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Catan LilL,Las Coloradas,--,--,SI,--,--,--,SI,SI,SI
+NEUQUEN,Chos Malal,Chos Malal,SI,--,SI,SI,SI,SI,SI,SI,SI
+NEUQUEN,Chos Malal,Tricao Malal,--,--,--,--,--,--,SI,SI,--
+NEUQUEN,Chos Malal,Villa del Curi Leuvú,--,--,--,--,--,--,--,--,--
+NEUQUEN,Confluencia,Neuquén,SI,SI,SI,SI,SI,SI,SI,SI,SI
+NEUQUEN,Confluencia,Plaza Huincul,--,--,--,--,SI,SI,--,SI,SI
+NEUQUEN,Confluencia,Plottier,SI,SI,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Confluencia,Senillosa,--,--,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Confluencia,Villa El Chocón,--,--,SI,--,SI,--,SI,SI,--
+NEUQUEN,Confluencia,Vista Alegre Norte,SI,--,--,SI,SI,SI,SI,SI,--
+NEUQUEN,Confluencia,Vista Alegre Sur,SI,--,--,SI,--,--,SI,--,SI
+MENDOZA,Luján de Cuyo,Luján de Cuyo,SI,SI,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,Luján de Cuyo,MAYOR DRUMMOND,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Luján de Cuyo,Perdriel,SI,--,SI,SI,--,SI,SI,SI,--
+MENDOZA,Luján de Cuyo,Piedras Blancas,--,--,--,--,--,--,--,--,--
+MENDOZA,Luján de Cuyo,Potrerillos,--,--,--,SI,SI,SI,SI,SI,SI
+MENDOZA,Luján de Cuyo,Ugarteche,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,Luján de Cuyo,Valle Del Sol,--,--,--,--,--,--,--,--,--
+MENDOZA,Luján de Cuyo,Villa El Refugio,--,--,--,--,--,--,--,--,--
+MENDOZA,Luján de Cuyo,VISTALBA,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Maipú,Barrancas,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Maipú,Barrio Jesús de Nazaret,--,--,--,--,--,--,--,SI,--
+MENDOZA,Maipú,COQUIMBITO,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Maipú,Cruz de Piedra,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,Maipú,El Pedregal,--,--,--,--,--,--,--,SI,--
+NEUQUEN,Collón Curá,Piedra del Águila,--,--,SI,--,SI,SI,SI,--,SI
+NEUQUEN,Collón Curá,Santo Tomás,--,--,--,--,--,--,SI,--,SI
+NEUQUEN,Confluencia,11 de Octubre,SI,--,--,SI,SI,SI,SI,--,--
+NEUQUEN,Confluencia,Arroyito,--,--,--,--,SI,SI,--,SI,--
+NEUQUEN,Confluencia,Barrio Ruca Luhé,--,--,--,SI,--,--,SI,--,--
+NEUQUEN,Confluencia,Centenario,SI,SI,--,SI,SI,SI,SI,SI,SI
+NEUQUEN,Confluencia,Cutral Có,SI,--,SI,SI,SI,SI,--,SI,SI
+NEUQUEN,Confluencia,El Chocón,--,--,--,--,--,--,--,SI,SI
+NEUQUEN,Confluencia,Mari Menuco,--,--,--,--,SI,SI,--,SI,--
+NEUQUEN,Huiliches,Junín de los Andes,SI,SI,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,Guaymallén,BERMEJO,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,BUENA NUEVA,--,--,--,SI,SI,SI,--,--,SI
+MENDOZA,Guaymallén,Capilla Del Rosario,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,COLONIA SEGOVIA,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Guaymallén,Colonia Segovia,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Guaymallén,DORREGO,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,EL SAUCE,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,GENERAL BELGRANO,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Guaymallén,Guaymallén,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Guaymallén,JESUS NAZARENO,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,KILOMETRO 11 (GUAYMALLEN),--,--,--,--,--,--,--,--,--
+MENDOZA,Guaymallén,La Primavera,--,--,--,--,--,--,--,SI,--
+MENDOZA,Guaymallén,LAS CAÑAS,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,Los Corralitos,SI,--,SI,--,SI,SI,SI,SI,SI
+MENDOZA,Las Heras,Panquehua,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Las Heras,Papagayos,--,--,--,--,SI,SI,--,--,SI
+MENDOZA,Las Heras,Polvaredas,--,--,--,--,--,--,--,--,--
+MENDOZA,Las Heras,Puente del Inca,--,--,--,--,SI,SI,--,--,SI
+MENDOZA,Las Heras,Punta de Vacas,--,--,--,--,--,--,--,--,--
+MENDOZA,Las Heras,Sierras De Encalada,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Las Heras,Uspallata,SI,--,SI,SI,SI,SI,SI,--,--
+MENDOZA,Lavalle,3 de Mayo,--,--,--,--,SI,--,SI,SI,--
+MENDOZA,Lavalle,Barrio Alto del Olvido,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio Jocolí II,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio La Esperanza,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio La Palmera,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio La Pega,--,--,--,--,--,--,SI,--,--
+MENDOZA,Lavalle,Barrio Lagunas de Bartoluzzi,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio Los Jarilleros,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Barrio Los Olivos,SI,--,--,--,--,--,SI,--,--
+MENDOZA,Lavalle,Barrio Virgen del Rosario,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Costa de Araujo,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Lavalle,El Paramillo,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,El Vergel,--,--,--,--,--,--,--,SI,--
+MENDOZA,Lavalle,Ingeniero Gustavo André,--,--,--,--,--,--,--,SI,--
+MENDOZA,Lavalle,Jocolí,--,--,--,--,--,--,--,SI,--
+MENDOZA,Lavalle,Jocolí Viejo,--,--,--,--,--,--,--,SI,--
+MENDOZA,Luján de Cuyo,Agrelo,SI,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,Luján de Cuyo,Barrio Adina I Y Ii,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Luján de Cuyo,Barrio Perdriel IV,--,--,--,SI,SI,--,--,SI,--
+MENDOZA,Luján de Cuyo,Cacheuta,SI,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Luján de Cuyo,CARRODILLA,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Luján de Cuyo,CHACRAS DE CORIA,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Luján de Cuyo,Costa Flores,--,--,--,SI,SI,SI,--,SI,--
+MENDOZA,Luján de Cuyo,El Carmelo,--,--,--,--,--,--,--,--,--
+MENDOZA,Luján de Cuyo,El Carrizal,--,--,--,--,SI,--,--,SI,--
+MENDOZA,Luján de Cuyo,El Salto,--,--,--,--,--,--,SI,SI,--
+MENDOZA,Luján de Cuyo,La Puntilla,--,--,--,SI,--,--,--,SI,--
+MENDOZA,Luján de Cuyo,Las Carditas,--,--,--,--,--,--,--,--,--
+MENDOZA,Luján de Cuyo,Las Compuertas,SI,--,SI,--,SI,--,SI,SI,--
+MENDOZA,Luján de Cuyo,Las Vegas,--,--,--,--,--,--,SI,SI,--
+MENDOZA,Luján de Cuyo,Los Manantiales,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Guaymallén,PEDRO MOLINA,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,Puente de Hierro,SI,--,SI,--,SI,SI,SI,SI,--
+MENDOZA,Guaymallén,RODEO DE LA CRUZ,--,--,--,SI,SI,SI,--,--,SI
+MENDOZA,Guaymallén,SAN FRANCISCO DEL MONTE,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,San Jose,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Guaymallén,VILLA NUEVA,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Junín,ALTO VERDE,--,--,--,--,--,--,--,--,--
+MENDOZA,Junín,Ingeniero Giagnoni,SI,--,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Junín,Junín,SI,--,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Junín,La Colonia,--,--,--,SI,SI,SI,--,SI,SI
+MENDOZA,Junín,Los Barriales,SI,--,SI,--,SI,SI,SI,SI,--
+MENDOZA,Junín,Medrano,--,--,--,--,--,--,--,SI,--
+MENDOZA,Junín,Phillips,--,--,--,--,--,--,SI,SI,--
+MENDOZA,Junín,Rodríguez Peña,--,--,--,--,SI,--,SI,SI,--
+MENDOZA,La Paz,Desaguadero,--,--,--,--,SI,SI,SI,--,--
+MENDOZA,La Paz,La Paz,SI,--,--,SI,SI,SI,SI,--,--
+MENDOZA,La Paz,Villa Antigua,--,--,--,--,--,--,--,--,--
+MENDOZA,Las Heras,Blanco Encalada,--,--,--,--,--,--,SI,--,--
+MENDOZA,Las Heras,Capdeville,--,--,--,--,SI,--,--,--,--
+MENDOZA,Las Heras,El Algarrobal,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Las Heras,El Borbollon,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Las Heras,EL CHALLAO,--,--,--,SI,--,--,--,--,--
+MENDOZA,Las Heras,EL PLUMERILLO,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Las Heras,EL RESGUARDO,--,--,--,SI,--,SI,--,--,--
+MENDOZA,Las Heras,EL ZAPALLAR,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Las Heras,Jocolí,--,--,--,--,SI,SI,SI,--,--
+MENDOZA,Las Heras,La Cieneguita,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Las Heras,Las Cuevas,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Las Heras,Las Heras,SI,SI,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,Las Heras,Los Penitentes,--,--,--,--,--,--,--,--,--
+NEUQUEN,Ñorquín,Caviahué,--,--,SI,--,SI,--,SI,SI,SI
+NEUQUEN,Ñorquín,Copahue,--,--,--,--,--,--,SI,SI,--
+NEUQUEN,Ñorquín,El Cholar,--,--,--,--,--,--,SI,SI,SI
+NEUQUEN,Ñorquín,El Huecú,--,--,--,--,SI,--,SI,SI,SI
+NEUQUEN,Ñorquín,Taquimilán,--,--,--,--,--,--,SI,SI,--
+NEUQUEN,Pehuenches,Barrancas,--,--,--,--,--,--,SI,SI,SI
+NEUQUEN,Pehuenches,Buta Ranquil,--,--,--,--,SI,--,SI,--,SI
+NEUQUEN,Pehuenches,Octavio Pico,--,--,--,--,--,--,--,--,--
+NEUQUEN,Pehuenches,Rincón de los Sauces,SI,SI,SI,SI,SI,SI,SI,SI,SI
+NEUQUEN,Picún Leufú,El Sauce,--,--,--,--,--,--,--,--,--
+NEUQUEN,Picún Leufú,Paso Aguerre,--,--,--,--,--,--,SI,--,--
+NEUQUEN,Picún Leufú,Picún Leufú,--,--,--,--,SI,--,SI,SI,SI
+NEUQUEN,Picunches,Bajada del Agrio,--,--,--,--,SI,--,SI,--,--
+NEUQUEN,Picunches,La Buitrera,--,--,--,--,--,--,--,--,SI
+NEUQUEN,Picunches,Las Lajas,--,--,SI,--,SI,--,SI,--,SI
+NEUQUEN,Picunches,Quili Malal,--,--,--,--,--,--,--,--,--
+NEUQUEN,Zapala,Covunco Centro,--,--,--,--,SI,--,--,--,--
+MENDOZA,Maipú,Fray Luis Beltrán,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Maipú,GENERAL GUTIERREZ,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Maipú,LUZURIAGA,--,--,--,SI,SI,SI,--,--,--
+MENDOZA,Maipú,Maipú,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Maipú,Rodeo del Medio,SI,--,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Maipú,Russell,SI,--,SI,SI,SI,SI,SI,--,--
+MENDOZA,Maipú,San Roque,SI,--,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Maipú,Villa Teresa,--,--,--,--,--,--,--,SI,--
+MENDOZA,Malargüe,Agua Escondida,--,--,--,--,SI,SI,--,--,SI
+MENDOZA,Malargüe,Bardas Blancas,--,--,--,--,SI,--,SI,--,--
+MENDOZA,Malargüe,Las Leñas,--,--,--,SI,SI,SI,SI,--,--
+NEUQUEN,Zapala,Los Catutos,--,--,--,--,--,--,--,SI,--
+NEUQUEN,Zapala,Mariano Moreno,SI,--,SI,--,--,--,SI,SI,SI
+NEUQUEN,Zapala,Ramon M. Castro,--,--,--,--,SI,--,--,--,--
+NEUQUEN,Zapala,Zapala,SI,--,SI,SI,SI,SI,SI,SI,SI
+MENDOZA,San Carlos,Barrio Carrasco,--,--,--,--,--,--,--,--,--
+MENDOZA,San Carlos,Barrio El Cepillo,--,--,--,--,--,--,--,SI,--
+MENDOZA,San Carlos,Chilecito,--,--,--,--,SI,SI,--,SI,--
+MENDOZA,San Carlos,Eugenio Bustos,SI,--,--,--,SI,SI,SI,SI,--
+MENDOZA,San Carlos,La Consulta,SI,--,--,--,SI,SI,SI,SI,SI
+MENDOZA,San Carlos,Pareditas,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,San Carlos,San Carlos,--,SI,--,--,SI,SI,--,SI,--
+MENDOZA,San Martín,Alto Salvador,--,--,--,SI,--,--,--,SI,--
+MENDOZA,San Martín,Alto Verde,--,--,--,SI,--,--,--,SI,--
+MENDOZA,San Martín,Barrio Chivilcoy,--,--,--,--,--,--,--,--,--
+MENDOZA,San Martín,Barrio Emanuel,--,--,--,--,--,--,--,--,--
+MENDOZA,San Martín,Barrio La Estación,--,--,--,--,--,--,--,--,--
+MENDOZA,San Martín,Barrio Los Charabones,--,--,--,--,--,--,--,--,--
+MENDOZA,San Martín,Barrio Ntra. Sra. De Fátima,--,--,--,--,--,SI,--,--,--
+MENDOZA,San Martín,Chapanay,--,--,SI,SI,SI,SI,SI,SI,--
+MENDOZA,San Martín,Chivilcoy,--,--,--,--,--,--,--,--,--
+MENDOZA,San Martín,El Espino,--,--,--,--,--,--,--,SI,--
+MENDOZA,San Martín,El Ramblón,--,--,--,--,--,--,--,SI,--
+MENDOZA,San Martín,Montecaseros,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,San Martín,Nueva California,--,--,--,--,--,--,--,SI,--
+MENDOZA,Tupungato,El Zampal,--,--,--,--,SI,--,--,--,--
+MENDOZA,San Rafael,Villa Atuel Norte,--,--,--,--,SI,SI,SI,--,--
+MENDOZA,Santa Rosa,Barrio 12 de Octubre,--,--,--,SI,SI,--,--,--,--
+MENDOZA,Santa Rosa,Barrio María Auxiliadora,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Santa Rosa,Barrio Molina Cabrera,--,--,--,--,--,--,--,--,--
+MENDOZA,Santa Rosa,La Dormida,--,--,--,SI,SI,SI,SI,SI,--
+MENDOZA,Santa Rosa,Las Catitas,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Santa Rosa,Santa Rosa,--,--,--,SI,--,--,SI,SI,--
+MENDOZA,Tunuyán,Barrio San Cayetano,--,--,--,--,--,--,--,--,--
+MENDOZA,Tunuyán,Campo Los Andes,--,SI,--,--,--,--,--,--,--
+MENDOZA,Tunuyán,Colonia Las Rosas,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Tunuyán,El Manzano,--,--,--,--,SI,SI,--,--,--
+MENDOZA,Tunuyán,Los Sauces,--,SI,--,SI,SI,SI,SI,--,--
+MENDOZA,Tunuyán,Tunuyán,SI,SI,SI,SI,SI,SI,SI,SI,--
+MENDOZA,Tunuyán,Vista Flores,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Tupungato,Barrio Belgrano Norte,--,--,--,--,--,--,--,--,--
+MENDOZA,Tupungato,Cordón del Plata,--,--,--,--,SI,SI,SI,SI,--
+MENDOZA,Tupungato,El Peral,--,--,--,--,--,--,--,--,--
+SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,--,--,--,--,--,--,--,SI,--
+SAN JUAN,Angaco,Villa Sefair (Talacasto),--,--,--,--,--,--,--,--,--
+SAN JUAN,Zonda,Villa Tacu,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Las Violetas,--,--,--,--,--,--,--,--,--
+MENDOZA,Lavalle,Villa Tulumaya,--,--,--,SI,SI,SI,--,SI,--
+CATAMARCA,El Alto,Vilismán,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Fray Mamerto Esquiú,La Carrera,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Fray Mamerto Esquiú,La Falda De San Antonio,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Fray Mamerto Esquiú,Collagasta,--,--,--,--,--,--,--,--,--
+CATAMARCA,Fray Mamerto Esquiú,El Hueco,--,--,--,SI,--,SI,--,--,--
+CATAMARCA,Fray Mamerto Esquiú,La Tercena,--,--,--,--,--,SI,--,SI,--
+CATAMARCA,Fray Mamerto Esquiú,Pomancillo Este,--,--,--,--,--,--,SI,--,--
+CATAMARCA,Fray Mamerto Esquiú,Pomancillo Oeste,--,--,--,--,--,--,--,--,--
+CATAMARCA,Fray Mamerto Esquiú,San Antonio,--,--,--,SI,SI,SI,--,--,--
+CATAMARCA,Paclín,La Viña,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Paclín,Las Lajas,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Paclín,Monte Potrero,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,Tinogasta,Fiambalá,--,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Tinogasta,La Puntilla,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,La Ramadita,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Los Balverdis,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Medanitos,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Tinogasta,Palo Blanco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Pampa Blanca,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Punta del Agua,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Saujil,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Tatón,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Ambato,Chuchucaruana,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ambato,Colpes,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ambato,El Bolsón,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Ambato,El Rodeo,--,--,--,--,SI,--,SI,SI,SI
+CATAMARCA,Ambato,Huaycama,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ambato,La Puerta,--,--,--,--,SI,--,SI,--,SI
+CATAMARCA,Ambato,Las Chacritas,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Ambato,Las Juntas,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Ambato,Los Castillos,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ambato,Los Talas,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Ambato,Los Varela,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Ambato,Singuil,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Ancasti,Ancasti,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Ancasti,Anquincila,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ancasti,La Candelaria,--,--,--,--,--,--,--,--,--
+CATAMARCA,Ancasti,La Majada,--,--,--,--,--,--,--,--,--
+CATAMARCA,Andalgalá,Aconquija,--,--,--,--,SI,SI,--,--,SI
+CATAMARCA,Andalgalá,Alto De Las Juntas,--,--,--,--,--,--,--,--,--
+CATAMARCA,Andalgalá,Amanao,--,--,--,--,--,SI,--,--,--
+CATAMARCA,Andalgalá,Andalgalá,SI,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Andalgalá,Buena Vista,--,--,--,--,--,--,--,--,--
+CATAMARCA,Andalgalá,Chaquiago,--,--,--,SI,--,--,--,SI,SI
+CATAMARCA,Andalgalá,Choya,--,--,--,--,--,--,--,--,--
+CATAMARCA,Andalgalá,El Alamito,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Andalgalá,El Lindero,--,--,--,--,--,--,SI,--,--
+CATAMARCA,Andalgalá,El Potrero,--,--,--,SI,--,--,--,--,--
+CATAMARCA,Andalgalá,La Aguada,--,--,--,SI,--,--,--,SI,--
+CATAMARCA,Andalgalá,La Mesada,--,--,--,SI,--,--,--,--,--
+CATAMARCA,Antofagasta de la Sierra,Antofagasta de la Sierra,--,--,--,--,SI,--,SI,--,SI
+CATAMARCA,Antofagasta de la Sierra,Antofalla,--,--,--,--,--,--,--,--,--
+CATAMARCA,Antofagasta de la Sierra,El Peñón,--,--,--,--,--,--,--,--,--
+CATAMARCA,Antofagasta de la Sierra,Los Nacimientos,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,Barranca Larga,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,Belén,--,--,--,--,SI,SI,SI,SI,SI
+CATAMARCA,Belén,Cóndor Huasi,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,Corral Quemado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,El Durazno,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Belén,Farallón Negro,--,--,--,--,SI,--,SI,--,--
+CATAMARCA,Belén,Hualfín,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Belén,Jacipunco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,La Puntilla,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,Las Juntas,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Belén,Londres,--,--,--,--,SI,--,SI,SI,SI
+CATAMARCA,Belén,Los Nacimientos,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Belén,Puerta de Corral Quemado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Belén,Puerta de San José,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Belén,Villa Vil,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Adolfo E. Carranza,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Balde de la Punta,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Capayán,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Capayán,Chumbicha,SI,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Capayán,Colonia del Valle,--,--,--,--,--,--,SI,--,SI
+CATAMARCA,Capayán,Colonia Nueva Coneta,--,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Capayán,Concepción,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Coneta,--,--,--,SI,--,--,SI,--,SI
+CATAMARCA,Capayán,El Bañado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Huillapima,--,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Capayán,Los Angeles,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Capayán,Los Angeles Norte,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Los Angeles Sur,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,Miraflores,--,--,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,Capayán,San Martín,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,Capayán,San Pablo,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capayán,San Pedro,--,--,--,--,--,--,--,--,--
+CATAMARCA,Capital,Barrio Bancario,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,Capital,El Pantanillo,SI,SI,--,SI,SI,SI,SI,--,SI
+CATAMARCA,Capital,San Fernando del Valle de Catamarca,SI,SI,SI,SI,SI,SI,SI,SI,SI
+CATAMARCA,El Alto,El Alto,--,--,--,--,SI,SI,--,SI,SI
+CATAMARCA,El Alto,Guayamba,--,--,--,--,--,--,--,--,--
+CATAMARCA,El Alto,Infanzón,--,--,--,--,--,--,--,--,--
+CATAMARCA,El Alto,Los Corrales,--,--,--,--,--,--,--,--,--
+CATAMARCA,El Alto,Tapso,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Fray Mamerto Esquiú,San José,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,Fray Mamerto Esquiú,Villa Las Pirquitas,--,--,--,--,SI,--,--,--,SI
+CATAMARCA,La Paz,Casa de Piedra,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,El Aybal,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,El Bañado,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,El Divisadero,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,El Quimilo,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,Esquiú,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,La Paz,Icaño,--,--,--,--,SI,SI,SI,--,SI
+CATAMARCA,La Paz,La Dorada,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,La Guardia,--,--,--,--,SI,--,--,--,--
+CATAMARCA,La Paz,Las Esquinas,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,Las Palmitas,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,Quirós,--,--,--,--,SI,--,SI,SI,--
+CATAMARCA,La Paz,Ramblones,--,--,--,--,--,--,--,--,--
+CATAMARCA,La Paz,Recreo,SI,SI,--,SI,SI,SI,SI,SI,SI
+CATAMARCA,La Paz,San Antonio,--,--,--,--,SI,SI,SI,SI,--
+CATAMARCA,Paclín,Amadores,--,--,--,--,--,--,--,--,--
+CATAMARCA,Paclín,El Rosario,--,--,--,--,--,--,--,--,--
+CATAMARCA,Paclín,La Bajada,--,--,--,--,--,--,--,--,--
+CATAMARCA,Paclín,La Higuera,--,--,--,--,--,--,--,--,--
+CATAMARCA,Paclín,La Merced,SI,--,--,--,SI,--,SI,SI,SI
+CATAMARCA,Tinogasta,Tinogasta,SI,--,--,SI,SI,--,SI,--,SI
+CATAMARCA,Valle Viejo,El Bañado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Valle Viejo,El Portezuelo,--,--,--,--,--,SI,--,--,SI
+CATAMARCA,Valle Viejo,Huaycama,--,--,--,--,--,--,--,--,--
+CATAMARCA,Valle Viejo,Las Tejas,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,Valle Viejo,Polcos,--,--,--,SI,--,--,--,--,--
+CATAMARCA,Valle Viejo,Pozo Del Mistol,--,--,--,SI,--,--,--,--,--
+CATAMARCA,Valle Viejo,San Isidro,--,--,--,SI,SI,SI,--,SI,--
+CATAMARCA,Valle Viejo,Santa Cruz,--,--,--,--,--,--,--,--,--
+CATAMARCA,Valle Viejo,Santa Rosa,--,--,--,SI,SI,SI,--,SI,--
+CATAMARCA,Valle Viejo,Sumalao,--,--,--,SI,--,--,--,SI,--
+CATAMARCA,Valle Viejo,Villa Dolores,--,--,--,SI,SI,--,--,SI,--
+CATAMARCA,Paclín,Palo Labrado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Paclín,San Antonio,--,--,--,--,--,--,--,SI,SI
+CATAMARCA,Paclín,Villa de Balcozna,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Pomán,Apoyaco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Pomán,Colana,--,--,--,--,--,--,--,--,--
+CATAMARCA,Pomán,Colpes,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Pomán,El Pajonal (Est. Pomán),--,--,--,--,--,--,--,--,--
+CATAMARCA,Pomán,Joyango,--,--,--,--,--,--,--,--,--
+CATAMARCA,Pomán,Mutquin,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Pomán,Pomán,--,--,--,--,SI,SI,SI,--,SI
+CATAMARCA,Pomán,Rincón,--,--,--,--,SI,--,SI,--,--
+CATAMARCA,Pomán,San Miguel,--,--,--,--,--,--,--,SI,--
+CATAMARCA,Pomán,Saujil,--,--,--,--,SI,--,SI,SI,SI
+CATAMARCA,Pomán,Siján,--,--,--,--,--,--,SI,--,SI
+CATAMARCA,Santa María,Andalhualá,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Caspichango,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Chañar Punco,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Santa María,El Cajón,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,El Cerrito,--,--,--,--,SI,SI,--,--,--
+CATAMARCA,Santa María,El Desmonte,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,El Puesto,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Famatanca,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Fuerte Quemado,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,La Hoyada,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,La Loma,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Santa María,La Puntilla,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Lampacito,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Santa María,Las Mojarras,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Loro Huasi,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Medanitos,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Palo Seco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Punta de Balasto,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,San José,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Santa María,San Jose Banda,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,San Jose Norte,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa María,Santa María,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Santa María,Yapes,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa Rosa,Alijilán,--,--,--,--,SI,--,SI,--,SI
+CATAMARCA,Santa Rosa,Bañado de Ovanta,--,--,--,--,SI,--,SI,--,SI
+CATAMARCA,Santa Rosa,Las Cañas,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa Rosa,Lavalle,--,--,--,--,--,--,--,--,SI
+CATAMARCA,Santa Rosa,Los Altos,--,--,--,--,SI,SI,SI,SI,SI
+CATAMARCA,Santa Rosa,Manantiales,--,--,--,--,--,--,--,--,--
+CATAMARCA,Santa Rosa,San Pedro,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Tinogasta,Anillaco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Antinaco,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Banda de Lucero,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Cerro Negro,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Copacabana,--,--,--,--,SI,--,--,--,--
+CATAMARCA,Tinogasta,Cordobita,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,Costa de Reyes,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,El Pueblito,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,El Puesto,--,--,--,--,--,--,--,--,--
+CATAMARCA,Tinogasta,El Salado,--,--,--,--,--,--,--,--,--
+MENDOZA,Capital,Mendoza,SI,SI,SI,SI,SI,SI,SI,SI,SI

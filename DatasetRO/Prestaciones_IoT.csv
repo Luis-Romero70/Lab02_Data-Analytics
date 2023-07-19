@@ -1,0 +1,353 @@
+,Provincia,Partido,Localidad,Hasta 5 Mbps,6 a 20 Mbps,20 a 100 Mbps
+714,CATAMARCA,Ambato,El Bolsón,1,0,0
+715,CATAMARCA,Ambato,El Rodeo,106,0,0
+716,CATAMARCA,Ambato,La Puerta,5,0,0
+717,CATAMARCA,Ambato,Las Chacritas,1,0,0
+718,CATAMARCA,Ambato,Los Talas,66,0,0
+719,CATAMARCA,Ambato,Los Varela,1,0,0
+720,CATAMARCA,Ancasti,Ancasti,1,0,0
+721,CATAMARCA,Andalgalá,Aconquija,1,0,0
+722,CATAMARCA,Andalgalá,Andalgalá,90,1106,0
+723,CATAMARCA,Andalgalá,Chaquiago,1,23,0
+724,CATAMARCA,Andalgalá,El Alamito,20,0,0
+725,CATAMARCA,Andalgalá,El Potrero,0,13,0
+726,CATAMARCA,Andalgalá,La Aguada,0,16,0
+727,CATAMARCA,Andalgalá,La Mesada,0,9,0
+728,CATAMARCA,Antofagasta de la Sierra,Antofagasta de la Sierra,0,0,0
+729,CATAMARCA,Belén,Belén,3,0,0
+730,CATAMARCA,Belén,El Durazno,0,0,0
+731,CATAMARCA,Belén,Hualfín,1,0,0
+732,CATAMARCA,Belén,Las Juntas,5,0,0
+733,CATAMARCA,Belén,Londres,1,0,0
+734,CATAMARCA,Belén,Puerta de San José,0,0,0
+735,CATAMARCA,Capayán,Capayán,1,0,0
+736,CATAMARCA,Capayán,Chumbicha,6,576,48
+737,CATAMARCA,Capayán,Colonia del Valle,1,0,0
+738,CATAMARCA,Capayán,Colonia Nueva Coneta,1,9,9
+739,CATAMARCA,Capayán,Coneta,1,10,0
+740,CATAMARCA,Capayán,Huillapima,1,5,9
+741,CATAMARCA,Capayán,Los Angeles,5,0,0
+742,CATAMARCA,Capayán,Miraflores,2,7,10
+743,CATAMARCA,Capayán,San Martín,7,0,0
+744,CATAMARCA,Capital,El Pantanillo,2,11,4
+745,CATAMARCA,Capital,San Fernando del Valle de Catamarca,1190,881,328
+746,CATAMARCA,El Alto,El Alto,29,0,0
+747,CATAMARCA,El Alto,Tapso,1,0,0
+748,CATAMARCA,Fray Mamerto Esquiú,El Hueco,0,0,25
+749,CATAMARCA,Fray Mamerto Esquiú,La Carrera,1,0,0
+750,CATAMARCA,Fray Mamerto Esquiú,La Falda De San Antonio,5,0,0
+751,CATAMARCA,Fray Mamerto Esquiú,La Tercena,5,0,0
+752,CATAMARCA,Fray Mamerto Esquiú,San Antonio,0,0,4
+753,CATAMARCA,Fray Mamerto Esquiú,San José,0,0,1
+754,CATAMARCA,Fray Mamerto Esquiú,Villa Las Pirquitas,1,0,0
+755,CATAMARCA,La Paz,Icaño,1,0,0
+756,CATAMARCA,La Paz,Quirós,27,0,0
+757,CATAMARCA,La Paz,Recreo,8,181,271
+758,CATAMARCA,La Paz,San Antonio,26,0,0
+759,CATAMARCA,Paclín,La Merced,10,71,0
+760,CATAMARCA,Paclín,La Viña,10,0,0
+761,CATAMARCA,Paclín,Las Lajas,1,0,0
+762,CATAMARCA,Paclín,San Antonio,8,0,0
+763,CATAMARCA,Pomán,Colpes,16,0,0
+764,CATAMARCA,Pomán,Mutquin,1,0,0
+765,CATAMARCA,Pomán,Pomán,2,0,0
+766,CATAMARCA,Pomán,San Miguel,0,0,7
+767,CATAMARCA,Pomán,Saujil,1,0,169
+768,CATAMARCA,Pomán,Siján,1,0,0
+769,CATAMARCA,Santa María,La Loma,1,0,0
+770,CATAMARCA,Santa María,San José,1,0,0
+771,CATAMARCA,Santa María,Santa María,1,0,0
+772,CATAMARCA,Santa Rosa,Alijilán,2,0,0
+773,CATAMARCA,Santa Rosa,Bañado de Ovanta,1,0,0
+774,CATAMARCA,Santa Rosa,Lavalle,1,0,0
+775,CATAMARCA,Santa Rosa,Los Altos,7,0,0
+776,CATAMARCA,Tinogasta,Fiambalá,1,8,7
+777,CATAMARCA,Tinogasta,Tinogasta,20,1010,109
+778,CATAMARCA,Valle Viejo,El Bañado,0,0,6
+779,CATAMARCA,Valle Viejo,El Portezuelo,6,0,0
+780,CATAMARCA,Valle Viejo,Polcos,0,0,209
+781,CATAMARCA,Valle Viejo,Pozo Del Mistol,0,0,18
+782,CATAMARCA,Valle Viejo,San Isidro,5,384,799
+783,CATAMARCA,Valle Viejo,Santa Rosa,5,0,733
+784,CATAMARCA,Valle Viejo,Sumalao,5,0,1
+785,CATAMARCA,Valle Viejo,Villa Dolores,5,0,97
+1826,MENDOZA,Capital,Mendoza,1390,1474,194
+1827,MENDOZA,General Alvear,Bowen,24,83,1
+1828,MENDOZA,General Alvear,Carmensa,20,12,0
+1829,MENDOZA,General Alvear,General Alvear,283,1034,471
+1830,MENDOZA,Godoy Cruz,Gobernador Benegas,3,85,480
+1831,MENDOZA,Godoy Cruz,Godoy Cruz,200,1940,27
+1832,MENDOZA,Godoy Cruz,Las Tortugas,3,41,715
+1833,MENDOZA,Godoy Cruz,San Francisco Del Monte,2,32,262
+1834,MENDOZA,Godoy Cruz,Villa Hipodromo,0,0,18
+1835,MENDOZA,Guaymallén,Bermejo,0,148,1
+1836,MENDOZA,Guaymallén,Buena Nueva,0,230,0
+1837,MENDOZA,Guaymallén,Capilla Del Rosario,0,311,0
+1838,MENDOZA,Guaymallén,Colonia Segovia,114,33,0
+1839,MENDOZA,Guaymallén,Dorrego,0,1,0
+1840,MENDOZA,Guaymallén,El Sauce,0,14,0
+1841,MENDOZA,Guaymallén,Guaymallén,336,385,25
+1842,MENDOZA,Guaymallén,Jesus Nazareno,0,258,0
+1843,MENDOZA,Guaymallén,La Primavera,9,0,0
+1844,MENDOZA,Guaymallén,Las Cañas,0,218,0
+1845,MENDOZA,Guaymallén,Los Corralitos,60,64,0
+1846,MENDOZA,Guaymallén,Otros,136,14,0
+1847,MENDOZA,Guaymallén,Pedro Molina,0,111,2
+1848,MENDOZA,Guaymallén,Puente de Hierro,239,1033,3
+1849,MENDOZA,Guaymallén,Rodeo De La Cruz,1,351,0
+1850,MENDOZA,Guaymallén,San Francisco Del Monte,0,202,29
+1851,MENDOZA,Guaymallén,San Jose,0,112,0
+1852,MENDOZA,Junín,Ingeniero Giagnoni,102,21,208
+1853,MENDOZA,Junín,Junín,143,548,743
+1854,MENDOZA,Junín,La Colonia,242,157,418
+1855,MENDOZA,Junín,Los Barriales,274,666,3
+1856,MENDOZA,Junín,Medrano,701,73,0
+1857,MENDOZA,Junín,Otros,0,7,23
+1858,MENDOZA,Junín,Phillips,1,0,0
+1859,MENDOZA,Junín,Rodríguez Peña,20,2,0
+1860,MENDOZA,La Paz,La Paz,61,325,0
+1861,MENDOZA,Las Heras,Blanco Encalada,4,0,0
+1862,MENDOZA,Las Heras,El Challao,0,203,0
+1863,MENDOZA,Las Heras,El Plumerillo,0,36,0
+1864,MENDOZA,Las Heras,El Resguardo,0,3,0
+1865,MENDOZA,Las Heras,El Zapallar,0,84,0
+1866,MENDOZA,Las Heras,Las Heras,677,1763,64
+1867,MENDOZA,Las Heras,Panquehua,0,5,0
+1868,MENDOZA,Las Heras,Papagayos,1,0,0
+1869,MENDOZA,Las Heras,Puente del Inca,0,0,0
+1870,MENDOZA,Las Heras,Uspallata,282,301,566
+1871,MENDOZA,Lavalle,3 de Mayo,0,21,0
+1872,MENDOZA,Lavalle,Barrio Los Olivos,7,222,0
+1873,MENDOZA,Lavalle,Costa de Araujo,133,43,0
+1874,MENDOZA,Lavalle,El Vergel,0,22,0
+1875,MENDOZA,Lavalle,Ingeniero Gustavo André,0,26,0
+1876,MENDOZA,Lavalle,Jocolí,0,27,0
+1877,MENDOZA,Lavalle,Jocolí Viejo,0,25,0
+1878,MENDOZA,Lavalle,Villa Tulumaya,293,87,0
+1879,MENDOZA,Luján de Cuyo,Agrelo,0,3,0
+1880,MENDOZA,Luján de Cuyo,Barrio Perdriel IV,0,0,0
+1881,MENDOZA,Luján de Cuyo,Cacheuta,5,15,0
+1882,MENDOZA,Luján de Cuyo,Carrodilla,0,493,0
+1883,MENDOZA,Luján de Cuyo,Chacras De Coria,1,684,30
+1884,MENDOZA,Luján de Cuyo,Costa Flores,0,0,0
+1885,MENDOZA,Luján de Cuyo,El Carrizal,11,1,0
+1886,MENDOZA,Luján de Cuyo,El Salto,0,0,0
+1887,MENDOZA,Luján de Cuyo,La Puntilla,0,110,2
+1888,MENDOZA,Luján de Cuyo,Las Compuertas,334,715,0
+1889,MENDOZA,Luján de Cuyo,Las Vegas,0,0,0
+1890,MENDOZA,Luján de Cuyo,Luján de Cuyo,1206,1599,700
+1891,MENDOZA,Luján de Cuyo,Mayor Drummond,1,265,2
+1892,MENDOZA,Luján de Cuyo,Perdriel,56,53,0
+1893,MENDOZA,Luján de Cuyo,Potrerillos,6,2,0
+1894,MENDOZA,Luján de Cuyo,Ugarteche,105,16,0
+1895,MENDOZA,Luján de Cuyo,Vistalba,0,45,0
+1896,MENDOZA,Maipú,Barrancas,0,0,0
+1897,MENDOZA,Maipú,Barrio Jesús de Nazaret,0,0,0
+1898,MENDOZA,Maipú,Coquimbito,0,5,0
+1899,MENDOZA,Maipú,Cruz de Piedra,12,0,0
+1900,MENDOZA,Maipú,El Pedregal,0,0,0
+1901,MENDOZA,Maipú,Fray Luis Beltrán,55,286,0
+1902,MENDOZA,Maipú,General Gutierrez,0,65,1
+1903,MENDOZA,Maipú,Luzuriaga,0,312,9
+1904,MENDOZA,Maipú,Maipú,543,964,81
+1905,MENDOZA,Maipú,Rodeo del Medio,216,324,0
+1906,MENDOZA,Maipú,Russell,187,899,3
+1907,MENDOZA,Maipú,San Roque,194,234,3
+1908,MENDOZA,Maipú,Villa Teresa,0,0,0
+1909,MENDOZA,Malargüe,Agua Escondida,0,1,0
+1910,MENDOZA,Malargüe,Las Leñas,0,0,1
+1911,MENDOZA,Malargüe,Malargüe,17,61,9
+1912,MENDOZA,OTROS,Otros,6,1,0
+1913,MENDOZA,Rivadavia,Andrade,13,0,0
+1914,MENDOZA,Rivadavia,Barrio Cooperativa Los Campamentos,5,0,0
+1915,MENDOZA,Rivadavia,Barrio Rivadavia,62,1,0
+1916,MENDOZA,Rivadavia,El Mirador,65,3,0
+1917,MENDOZA,Rivadavia,La Central,98,0,0
+1918,MENDOZA,Rivadavia,La Esperanza,33,0,0
+1919,MENDOZA,Rivadavia,La Florida,95,0,0
+1920,MENDOZA,Rivadavia,La Libertad,59,1,0
+1921,MENDOZA,Rivadavia,Los Árboles,8,0,0
+1922,MENDOZA,Rivadavia,Los Campamentos,81,0,0
+1923,MENDOZA,Rivadavia,Medrano,3,0,0
+1924,MENDOZA,Rivadavia,Mundo Nuevo,13,0,0
+1925,MENDOZA,Rivadavia,Reducción de Abajo,61,0,0
+1926,MENDOZA,Rivadavia,Rivadavia,1530,539,24
+1927,MENDOZA,Rivadavia,Santa María de Oro,40,2,0
+1928,MENDOZA,San Carlos,Barrio El Cepillo,0,47,0
+1929,MENDOZA,San Carlos,Chilecito,0,152,0
+1930,MENDOZA,San Carlos,Eugenio Bustos,64,597,0
+1931,MENDOZA,San Carlos,La Consulta,35,767,0
+1932,MENDOZA,San Carlos,Pareditas,0,120,0
+1933,MENDOZA,San Carlos,San Carlos,72,505,0
+1934,MENDOZA,San Martín,Alto Salvador,17,10,26
+1935,MENDOZA,San Martín,Alto Verde,80,22,49
+1936,MENDOZA,San Martín,Chapanay,29,4,6
+1937,MENDOZA,San Martín,El Espino,53,6,0
+1938,MENDOZA,San Martín,El Ramblón,97,10,0
+1939,MENDOZA,San Martín,Montecaseros,85,9,0
+1940,MENDOZA,San Martín,Nueva California,43,4,0
+1941,MENDOZA,San Martín,Otros,85,9,0
+1942,MENDOZA,San Martín,Palmira,17,120,397
+1943,MENDOZA,San Martín,San Martín,810,727,529
+1944,MENDOZA,San Martín,Tres Porteñas,189,30,0
+1945,MENDOZA,San Rafael,25 de Mayo,3,89,0
+1946,MENDOZA,San Rafael,Capitán Montoya,2,0,0
+1947,MENDOZA,San Rafael,Cuadro Benegas,160,290,598
+1948,MENDOZA,San Rafael,El Nihuil,0,88,0
+1949,MENDOZA,San Rafael,Goudge,1,176,1
+1950,MENDOZA,San Rafael,Jaime Prats,86,8,0
+1951,MENDOZA,San Rafael,Las Malvinas,0,53,0
+1952,MENDOZA,San Rafael,Monte Comán,429,0,0
+1953,MENDOZA,San Rafael,Punta del Agua,0,1,0
+1954,MENDOZA,San Rafael,Rama Caída,136,320,0
+1955,MENDOZA,San Rafael,Real del Padre,417,167,0
+1956,MENDOZA,San Rafael,Salto de Las Rosas,151,212,0
+1957,MENDOZA,San Rafael,San Rafael,203,1755,35
+1958,MENDOZA,San Rafael,Villa Atuel,14,232,0
+1959,MENDOZA,San Rafael,Villa Atuel Norte,102,0,0
+1960,MENDOZA,Santa Rosa,Barrio 12 de Octubre,0,0,3
+1961,MENDOZA,Santa Rosa,La Dormida,275,28,0
+1962,MENDOZA,Santa Rosa,Las Catitas,345,36,0
+1963,MENDOZA,Santa Rosa,Santa Rosa,140,13,0
+1964,MENDOZA,Tunuyán,Campo Los Andes,0,55,0
+1965,MENDOZA,Tunuyán,Colonia Las Rosas,5,194,0
+1966,MENDOZA,Tunuyán,Los Sauces,1,22,0
+1967,MENDOZA,Tunuyán,Tunuyán,590,1274,8
+1968,MENDOZA,Tunuyán,Vista Flores,30,232,2
+1969,MENDOZA,Tupungato,Cordón del Plata,227,99,0
+1970,MENDOZA,Tupungato,La Arboleda,45,0,0
+1971,MENDOZA,Tupungato,San José,0,53,5
+1972,MENDOZA,Tupungato,Tupungato,92,1024,0
+2068,NEUQUEN,Aluminé,Aluminé,924,204,0
+2069,NEUQUEN,Aluminé,Moquehue,54,89,0
+2070,NEUQUEN,Aluminé,Villa Pehuenia,358,297,0
+2071,NEUQUEN,Añelo,Añelo,255,172,366
+2072,NEUQUEN,Añelo,San Patricio del Chañar,202,125,763
+2073,NEUQUEN,Catan LilL,Las Coloradas,35,27,0
+2074,NEUQUEN,Chos Malal,Chos Malal,398,431,0
+2075,NEUQUEN,Chos Malal,Tricao Malal,0,75,0
+2076,NEUQUEN,Collón Curá,Piedra del Águila,2,0,0
+2077,NEUQUEN,Collón Curá,Santo Tomás,0,0,0
+2078,NEUQUEN,Confluencia,11 de Octubre,0,0,418
+2079,NEUQUEN,Confluencia,Arroyito,29,0,1
+2080,NEUQUEN,Confluencia,Barrio Ruca Luhé,0,0,8
+2081,NEUQUEN,Confluencia,Centenario,41,207,948
+2082,NEUQUEN,Confluencia,Cutral Có,855,273,253
+2083,NEUQUEN,Confluencia,El Chocón,38,42,0
+2084,NEUQUEN,Confluencia,Mari Menuco,0,100,0
+2085,NEUQUEN,Confluencia,Neuquén,1405,1933,63
+2086,NEUQUEN,Confluencia,Otros,3,0,0
+2087,NEUQUEN,Confluencia,Plaza Huincul,279,956,180
+2088,NEUQUEN,Confluencia,Plottier,205,1272,961
+2089,NEUQUEN,Confluencia,Senillosa,943,692,1
+2090,NEUQUEN,Confluencia,Villa El Chocón,44,39,0
+2091,NEUQUEN,Confluencia,Vista Alegre Norte,5,280,330
+2092,NEUQUEN,Confluencia,Vista Alegre Sur,1,270,325
+2093,NEUQUEN,Huiliches,Junín de los Andes,385,2069,780
+2094,NEUQUEN,Lácar,San Martín de los Andes,309,930,15
+2095,NEUQUEN,Lácar,Villa Lago Meliquina,251,97,0
+2096,NEUQUEN,Loncopué,Chorriaca,61,0,0
+2097,NEUQUEN,Loncopué,Loncopué,1129,86,0
+2098,NEUQUEN,Los Lagos,Villa La Angostura,430,1264,3
+2099,NEUQUEN,Los Lagos,Villa Traful,2,0,0
+2100,NEUQUEN,Minas,Andacollo,37,251,0
+2101,NEUQUEN,Minas,Huinganco,21,20,0
+2102,NEUQUEN,Minas,Las Ovejas,26,30,0
+2103,NEUQUEN,Minas,Manzano Amargo,9,1,0
+2104,NEUQUEN,Minas,Varvarco,8,12,0
+2105,NEUQUEN,Minas,Villa Del Nahueve,0,20,0
+2106,NEUQUEN,Ñorquín,Caviahué,171,11,0
+2107,NEUQUEN,Ñorquín,Copahue,22,0,0
+2108,NEUQUEN,Ñorquín,El Cholar,15,51,0
+2109,NEUQUEN,Ñorquín,El Huecú,99,0,0
+2110,NEUQUEN,Ñorquín,Taquimilán,0,32,0
+2111,NEUQUEN,OTROS,Otros,0,0,0
+2112,NEUQUEN,Pehuenches,Barrancas,0,30,0
+2113,NEUQUEN,Pehuenches,Buta Ranquil,3,0,0
+2114,NEUQUEN,Pehuenches,Rincón de los Sauces,977,760,0
+2115,NEUQUEN,Picún Leufú,Picún Leufú,2,0,0
+2116,NEUQUEN,Picunches,Bajada del Agrio,0,0,0
+2117,NEUQUEN,Picunches,La Buitrera,0,0,0
+2118,NEUQUEN,Picunches,Las Lajas,1,0,0
+2119,NEUQUEN,Zapala,Los Catutos,27,0,0
+2120,NEUQUEN,Zapala,Mariano Moreno,44,10,0
+2121,NEUQUEN,Zapala,Zapala,799,1806,671
+2340,SAN JUAN,25 de Mayo,Tupelí,60,0,0
+2341,SAN JUAN,25 de Mayo,Villa Borjas,0,8,0
+2342,SAN JUAN,25 de Mayo,Villa Borjas - La Chimbera,80,0,0
+2343,SAN JUAN,25 de Mayo,Villa Santa Rosa,38,15,0
+2344,SAN JUAN,9 de Julio,9 de Julio,259,68,0
+2345,SAN JUAN,9 de Julio,Alto de Sierra,6,0,0
+2346,SAN JUAN,9 de Julio,Colonia Fiorito,3,0,0
+2347,SAN JUAN,9 de Julio,Las Chacritas,77,39,0
+2348,SAN JUAN,9 de Julio,Otros,1,0,0
+2349,SAN JUAN,Albardón,El Rincón,291,228,2
+2350,SAN JUAN,Albardón,Otros,0,0,0
+2351,SAN JUAN,Albardón,Villa General San Martin,12,12,0
+2352,SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,112,40,0
+2353,SAN JUAN,Angaco,Otros,0,0,0
+2354,SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,70,46,0
+2355,SAN JUAN,Calingasta,Barreal - Villa Pituil,1294,0,0
+2356,SAN JUAN,Calingasta,Calingasta,370,0,0
+2357,SAN JUAN,Calingasta,Tamberías,130,0,0
+2358,SAN JUAN,Capital,San Juan,1195,1442,847
+2359,SAN JUAN,Caucete,Bermejo,1,0,0
+2360,SAN JUAN,Caucete,Caucete,445,1078,0
+2361,SAN JUAN,Caucete,Vallecito,5,0,0
+2362,SAN JUAN,Caucete,Villa Independencia,0,14,0
+2363,SAN JUAN,Chimbas,Chimbas,1269,1497,572
+2364,SAN JUAN,Chimbas,Villa Paula Albarracin,0,3,0
+2365,SAN JUAN,Iglesia,Angualasto,34,1,0
+2366,SAN JUAN,Iglesia,Bella Vista,39,1,0
+2367,SAN JUAN,Iglesia,Iglesia,71,3,0
+2368,SAN JUAN,Iglesia,Las Flores,98,3,0
+2369,SAN JUAN,Iglesia,Pismanta,22,0,0
+2370,SAN JUAN,Iglesia,Rodeo,325,30,9
+2371,SAN JUAN,Iglesia,Tudcum,78,3,0
+2372,SAN JUAN,Jáchal,El Médano,49,1,0
+2373,SAN JUAN,Jáchal,Gran China,77,2,0
+2374,SAN JUAN,Jáchal,Huaco,108,0,0
+2375,SAN JUAN,Jáchal,Mogna,5,0,0
+2376,SAN JUAN,Jáchal,Niquivil,22,1,0
+2377,SAN JUAN,Jáchal,Pampa Vieja,83,1,0
+2378,SAN JUAN,Jáchal,San Isidro,92,2,0
+2379,SAN JUAN,Jáchal,San José de Jáchal,937,146,0
+2380,SAN JUAN,Jáchal,Tamberías,60,1,0
+2381,SAN JUAN,Jáchal,Villa Malvinas Argentinas,22,1,0
+2382,SAN JUAN,Jáchal,Villa Mercedes,164,2,0
+2383,SAN JUAN,OTROS,Otros,4,0,0
+2384,SAN JUAN,Pocito,Barrio Ruta 40,13,0,0
+2385,SAN JUAN,Pocito,Carpintería,13,0,0
+2386,SAN JUAN,Pocito,Quinto Cuartel,24,32,0
+2387,SAN JUAN,Pocito,Villa Aberastain,4,53,0
+2388,SAN JUAN,Pocito,Villa Aberastain - La Rinconada,219,475,0
+2389,SAN JUAN,Pocito,Villa Barbosa - Villa Nacusi,82,7,0
+2390,SAN JUAN,Pocito,Villa Centenario,50,2,0
+2391,SAN JUAN,Rawson,El Medanito,27,5,0
+2392,SAN JUAN,Rawson,Rawson,858,58,35
+2393,SAN JUAN,Rawson,Villa Bolaños,114,191,31
+2394,SAN JUAN,Rawson,Villa Krause,0,253,0
+2395,SAN JUAN,Rivadavia,Rivadavia,1087,944,70
+2396,SAN JUAN,San Martín,Barrio Sadop,2,0,0
+2397,SAN JUAN,San Martín,Dos Acequias (Est. Los Angacos),5,29,0
+2398,SAN JUAN,San Martín,San Isidro (Est. Los Angacos),4,2,0
+2399,SAN JUAN,San Martín,Villa Dominguito (Est. Puntilla Blanca),2,0,0
+2400,SAN JUAN,San Martín,Villa Don Bosco (Est. Angaco Sud),55,10,0
+2401,SAN JUAN,San Martín,Villa El Salvador,4,0,0
+2402,SAN JUAN,San Martín,Villa San Martín,8,9,0
+2403,SAN JUAN,Santa Lucía,Alto de Sierra,0,18,0
+2404,SAN JUAN,Santa Lucía,Santa Lucía,795,1496,102
+2405,SAN JUAN,Sarmiento,Cañada Honda,3,1,0
+2406,SAN JUAN,Sarmiento,Cienaguita,1,1,0
+2407,SAN JUAN,Sarmiento,Divisadero,10,0,0
+2408,SAN JUAN,Sarmiento,Guanacache,7,0,0
+2409,SAN JUAN,Sarmiento,Las Lagunas,1,0,0
+2410,SAN JUAN,Sarmiento,Los Berros,14,55,0
+2411,SAN JUAN,Sarmiento,Pedernal,10,0,0
+2412,SAN JUAN,Sarmiento,Punta del Médano,1,0,0
+2413,SAN JUAN,Sarmiento,Villa Media Agua,23,137,0
+2414,SAN JUAN,Ullum,Villa Ibáñez,201,187,0
+2415,SAN JUAN,Valle Fértil,Astica,0,30,0
+2416,SAN JUAN,Valle Fértil,Otros,0,0,0
+2417,SAN JUAN,Valle Fértil,Villa San Agustín,4,260,0
+2418,SAN JUAN,Zonda,Villa Basilio Nievas,224,125,0
