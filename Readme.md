@@ -26,7 +26,8 @@ Basándome en la información provista por el <strong>ENACOM</strong> más la ge
 <p> El repositorio contiene los siguientes archivos y carpetas:<br>
 <ul><li>Lab02_EDA.ipynb: Jupyter Notebook que contiene el análisis exploratorio de datos (EDA). Se documentan los pasos realizados para el análisis, se presentan gráficos y se incluyen algunas conclusiones a partir de los mismos.</li><br>
 <li>Informe_proyecto_IoTMinero.pbix: Daxhboard con las visualizaciones calve que permiten orientar en la toma de decisiones para las posibles inversiones. Se presentan allí 3 KPIs que permitirán realizar la evaluación del análisis.</li><br>
-<li>/Dataset: contiene los archivos que fueron utilizados para el análisis tanto del EDA como para su posterior aprovechamiento en el Dasboard.</li></ul><br>
+<li>/Dataset: contiene los archivos que fueron utilizados para el análisis tanto del EDA como para su posterior aprovechamiento en el Dasboard.</li><br>
+<li> Archivos de imágenes: archivos .png que se emplean como ilustraciones en el presente trabajo</li></ul><br>
 
 # Descripción del Proyecto:
 <h3> <strong><p> IoT InnOvaTions</strong> es una empresa especializada en integrar y ofrecer soluciones IoT llave en mano, con experiencia en distintos rubros (industria automtotriz, empresas alimenticias, sistema de salud, entre otros).<br><p>
