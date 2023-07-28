@@ -4,7 +4,7 @@
 </div>
 
 <h1 align='center'>
-<img src="IoT & Minería.png" width="1000"> 
+<img src="_src/IoT & Minería.png" width="1000"> 
 
 <h2 align='center' style="font-weight:light; text-align:justify; margin-left: 80px; margin-right: 100px;">
 <div align="center">
@@ -16,7 +16,7 @@
 <h3>
 En este laboratorio individual de <em>Data Analytics</em> (DA), asumiré el rol de un <em>Analista de Datos</em> pertenciente a la empresa tecnológica <strong>IoT InnOvaTions.</strong>(empresa ficticia) <br>
 <h4 align='center'>
-<img src="Logo IoT 2.png" width="100"></h4>
+<img src="_src/Logo IoT 2.png" width="100"></h4>
 <h3>
 Basándome en la información provista por el <strong>ENACOM</strong> más la generada a partir de los datos disponibles en el sitio web de la <strong>Cámara Argentina de Minería</strong> se buscará orientar a la empresa para identificar la mejor oportunidad de inversión en un nuevo rubro.
 
@@ -33,7 +33,7 @@ Basándome en la información provista por el <strong>ENACOM</strong> más la ge
 <h3> <strong><p> IoT InnOvaTions</strong> es una empresa especializada en integrar y ofrecer soluciones IoT llave en mano, con experiencia en distintos rubros (industria automtotriz, empresas alimenticias, sistema de salud, entre otros).<br><p>
 <p> Se me ha encomendado realizar un análisis de factibilidad para la apertura de una nueva división dentro de la empresa con el objetivo de incursionar en el rubro de las empresas mineras. Esta nueva división se identificará con el nombre de <em><strong>SmartMine</em></strong>
 <h4 align='center'>
-<img src="logo SmartMine con texto.png" width="120"></h4>
+<img src="_src/logo SmartMine con texto.png" width="120"></h4>
 <h3><p> Para este fin se cuenta con información obtenida desde el <strong>ENACOM</strong>, el cual proporciona datos referentes al alcance de la tecnología disponible en Argentina para el rubro telecomunicaciones en general, el grado de cobertura por localidades y nivel de población, y también información referida al tipo de tecnología disponible para el acceso a internet, contemplando la velocidad de acceso.
 <p> Para investigar el grado de factibilidad de incursionar en el rubro minero, se focalizó el análisis sobre 4 provincias de la región oeste de Argentina, en donde se desarrolla mayormente esta actividad. Las provincias seleccionadas fueron <strong>Catamarca</strong>, <strong>Mendoza</strong>, <strong>Neuquén</strong>, y <strong>San Juan</strong>. Esta información fue recolectada a partir de los registros públicos de la <strong>Cámara Argentina de Minería</strong>, de donde se extrajeron los datos de los proyectos mineros presentes en las provincias mencionadas. Estos datos permitieron crear un dataset en donde se colocó el nombre de cada proyecto, la provincia en la que se encuentra ubicado, y los minerales que se explotan en dichos yacimientos. Para poder contar con la ubicación geográfica de los mismos (latitud y longitud) ser recurrió a <strong>Google Earth</strong>, información que también se incorporó al dataset mencionado.
 <p> Con respecto a la implementación de soluciones IoT en el campo minero, sólo focalizaré el análisis en 3 segmentos de velocidad.
