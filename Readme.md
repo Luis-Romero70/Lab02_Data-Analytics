@@ -63,6 +63,11 @@ Basándome en la información provista por el <strong>ENACOM</strong> más la ge
 <p>Analizando los canales ya disponibles en las proximidades de cada yacimiento, podremos determinar qué servicios podrán ponerse en funcionamiento con un menor costo inicial. Además, identificaremos qué tipo de tecnología será necesario instalar para cubrir el resto de los servicios requeridos.<br>
 Este análisis nos permitirá tomar decisiones estratégicas y optimizar nuestros recursos al implementar los servicios IoT en el mundo minero. Así, podremos ofrecer soluciones adaptadas a cada área, maximizando la eficiencia y la rentabilidad de nuestros proyectos.
 
+## Contacto 
+- Autor: Luis Eduardo Romero
 
+- Correo electrónico: romero.luis.eduardo70@gmail.com
+
+- LinkedIn: www.linkedin.com/in/luis-romero-97a7132b
 
 </h3>"# Lab02_Data-Analytics" 
